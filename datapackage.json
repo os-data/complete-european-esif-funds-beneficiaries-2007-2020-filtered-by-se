@@ -287,7 +287,7 @@
       "hash": "97beff40c77fd64d42e3b14fd0b92857",
       "mediatype": "text/csv",
       "name": "se-eu-esif-funds-beneficiaries-2007-2020-full",
-      "path": "https://storage.openspending.org/se-eu-esif-funds-beneficiaries-2007-2020-full.csv",
+      "path": "https://storage.openspending.org/complete-european-esif-funds-beneficiaries-2007-2020-filtered-by-se/se-eu-esif-funds-beneficiaries-2007-2020-full.csv",
       "schema": {
         "fields": [
           {
